@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087188382867",
+    "project_id": "lec-attendance",
+    "storage_bucket": "lec-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087188382867:android:9f2e8e52f31fd8cca6c966",
+        "android_client_info": {
+          "package_name": "com.ccbc.lec_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087188382867-robjjujp1qbrks3fjlfnqspfun6s470k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyVwmk3B5WF0KjIJTHEH43pLJGP3N9CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087188382867-robjjujp1qbrks3fjlfnqspfun6s470k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
